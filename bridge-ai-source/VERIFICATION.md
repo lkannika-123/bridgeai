@@ -1,0 +1,3 @@
+14 Node tests passed: task matching, changed answers, catalog extension, unknown prices, missing baselines, distinct cash/time estimates, coach payload, missing key, provider failure, mocked successful provider and rate rejection.
+4 DOM journeys passed: coffee-shop survey/back/comparison/budget/decision/save/reopen, landscaper one-tool plan and price pending/confirmed, write-in/new initiative/reset, keyboard-oriented semantics. These are simulated DOM tests, not real phone screenshots or live-browser keyboard testing.
+Live OpenRouter call: PENDING owner secret configuration. No real key was requested, stored or used. See README verification steps. External Cloudflare/Vercel deployment: not run; owner-managed. Provider success was mocked.

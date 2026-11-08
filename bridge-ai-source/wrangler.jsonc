@@ -1,0 +1,7 @@
+{
+ "name":"bridge-ai-small-business",
+ "main":"dist/server/index.js",
+ "compatibility_date":"2026-11-01",
+ "vars":{"OPENROUTER_MODEL":"openai/gpt-4.1-mini"},
+ "unsafe":{"bindings":[{"name":"COACH_RATE_LIMITER","type":"ratelimit","namespace_id":"1001","simple":{"limit":5,"period":60}}]}
+}
